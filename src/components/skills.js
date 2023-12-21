@@ -11,7 +11,7 @@ const Skills = () => {
         <div className="grid grid-cols-4 gap-8 mt-8 text-xl">
           {["Microsoft SQL Server", "Statistical Analysis", "Data Analysis", "Python", "Rstudio", "Knime", "React.js"].map(skill => (
             <div key={skill} className="flex flex-col items-center ">
-              <h3 className="hover:text-red-500 transition duration-300 ease-in-out">{skill}</h3>
+              <h3 className="hover:text-[#ffcb00] transition duration-300 ease-in-out">{skill}</h3>
             </div>
           ))}
         </div>
