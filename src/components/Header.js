@@ -63,7 +63,7 @@
           //   <button className="font-rubik hover:text-[#ff6150] text-xl">Contact</button>
           // </Link>
 //           <a
-//             href="https://drive.google.com/file/d/151Z47917h6Q005Y7536316574q17838/view?usp=sharing"
+//             href="https://drive.google.com/uc?export=download&id=1YLrQJcXDGusH-6HH7wk5k2RbEa6ygYUW"
 //             target="_blank"
 //             rel="noreferrer"
 //             className=" text-xl bg-[#ffffff] hover:bg-[#bfc8d3] text-[#272643] px-3 py-1.5 rounded-lg font-rubik"
